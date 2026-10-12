@@ -1,5 +1,17 @@
-#+title: What makes me tick :clock:
+#+title: What is mbrignall
 #+author: mbrignall
 
 
+* I am a security engineer
 
+Background in Incident Response, DevOps and general engineering magic
+
+* I love e-waste
+
+If it's broken, fix it... possibly put linux on it
+
+* Interests
+
+- Homelabbing
+- k8s/k9s and cats
+- Emacs
